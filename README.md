@@ -74,20 +74,20 @@
 
 #### 메인 기능
 1. 분리배출 하러가기
-- 인공지능 활용 생활폐기물 이미지 인식을 통한 분리배출 방법 안내
+  - 인공지능 활용 생활폐기물 이미지 인식을 통한 분리배출 방법 안내
 2. 우리동네 대형폐기물 신고하기
-- 사용자 위치 인식 혹은 선택을 통한 지자체별 대형폐기물 또는 생활 가전 폐기물 신고 사이트 안내 (납부 필증 사이트 연결, 무료 수거 서비스 안내)
+  - 사용자 위치 인식 혹은 선택을 통한 지자체별 대형폐기물 또는 생활 가전 폐기물 신고 사이트 안내 (납부 필증 사이트 연결, 무료 수거 서비스 안내)
 3. 퀴즈 풀러가기, 포인트 적립 (마이페이지)
--  분리배출 퀴즈 참여에 따른 포인트 적립과 포인트 적립 정도에 따른 시각화
+  - 분리배출 퀴즈 참여에 따른 포인트 적립과 포인트 적립 정도에 따른 시각화
 
 #### 서브 기능
 1. 중고마켓
-- 중고 거래 스레드(무한 스크롤) 및 댓글
+  - 중고 거래 스레드(무한 스크롤) 및 댓글
 2. 회원 가입 및 로그인, 마이페이지
-- 소셜 로그인 (네이버, 카카오)
-- 회원 정보 관리 (프로필, 닉네임 편집 기능)
+  - 소셜 로그인 (네이버, 카카오)
+  - 회원 정보 관리 (프로필, 닉네임 편집 기능)
 3. 분리 배출 정보 다 보기
-- 카테고리 선택을 통한 분리배출 방법 안내 (셀렉박스)
+  - 카테고리 선택을 통한 분리배출 방법 안내 (셀렉박스)
 
 
 <br><br>  
@@ -98,38 +98,21 @@
 
 <br><br>  
 ## 스토리 보드 및 유저 시나리오
-
 📍 [구글 시트 링크](https://docs.google.com/spreadsheets/d/1Gv8fvA-80mt02lMYLZNUqs3o3ZKHG1Lz3iDeypcRL3A/edit#gid=0)
-
-📍 임베드 된 부분으로 볼 경우, 50%로 봐주세요!
-
-[https://docs.google.com/spreadsheets/d/1Gv8fvA-80mt02lMYLZNUqs3o3ZKHG1Lz3iDeypcRL3A/edit#gid=0](https://docs.google.com/spreadsheets/d/1Gv8fvA-80mt02lMYLZNUqs3o3ZKHG1Lz3iDeypcRL3A/edit#gid=0)
-
-📍 주제 선정 & 기능 논의 후, 
-
-     전체적인 스토리 보드 작성을 공용 구글 계정 내 스프레드 시트에 작성하였습니다. 
-
-     (조금 더 구체적으로 정해야 하는 세부 사항에 대해 논의 하고 팀원들과 같은 방향 및 의도 일치&확립에 좋은 역할을 했습니다. ) 
-
 
 
 <br><br>  
 ## 페이지 구조도
-
-[🖱 피그마에서 보기](https://www.figma.com/file/dSjdmhOweLps5vP9zIfsme/Wireframe?node-id=323%3A1979)
-
-![page structure](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4b4e6f3-f329-446a-b5f6-84cd746a7dbf/page_structure.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220722%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220722T023347Z&X-Amz-Expires=86400&X-Amz-Signature=34f1a9849f7387a520a9c89068ace830b8392720a69cb2cc35365dc193d0884a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22page%2520structure.png%22&x-id=GetObject)
+📍 [피그마 링크](https://www.figma.com/file/dSjdmhOweLps5vP9zIfsme/Wireframe?node-id=323%3A1979)
 
 
 <br><br>  
 ## ER Diagram
-
-[ERD](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5ef7a022-0eee-485f-8b34-ed459972b6ce/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220722%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220722T023408Z&X-Amz-Expires=86400&X-Amz-Signature=51352e26da041293d388bfe13545dffd397e1277182c923ba72ecb01d3e71577&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+📍 [ERD](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5ef7a022-0eee-485f-8b34-ed459972b6ce/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220722%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220722T023408Z&X-Amz-Expires=86400&X-Amz-Signature=51352e26da041293d388bfe13545dffd397e1277182c923ba72ecb01d3e71577&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 <br><br>  
 ## API 명세서
-
 📍 [api 명세서 보러가기](https://documenter.getpostman.com/view/19591285/UzBiQUw9#644af286-9b0d-4bdf-8ec2-d11a18e508f3) 
 
 
@@ -148,9 +131,6 @@
 
 <br><br>  
 ## 7. 각 팀원의 역할과 기여한 부분
-
-![TEAM](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/08d75f04-22ea-424e-a79e-5be467caeadf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220722%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220722T023902Z&X-Amz-Expires=86400&X-Amz-Signature=e656808c634e0aa8b4a110d954b3ab73a3c7674e204d4d1dd9d0b903d69bf1b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-
 
 ##### 신 도 희 (팀장, 백엔드)
 1. DB 설계 및 관리
